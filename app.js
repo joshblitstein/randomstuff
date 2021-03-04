@@ -1,5 +1,8 @@
-const lousn = 33;
+ 
+ const div = 2/1;
 
-function ud(s){
- 7 + s   
-}
+ function divide(num) {
+    4 +num;
+ }
+
+ console.log(divide(2))
